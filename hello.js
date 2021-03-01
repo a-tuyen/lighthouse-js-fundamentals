@@ -11,4 +11,5 @@ const sayHello = function (name) {
 sayHello('Caliban');
 sayHello('Miranda');
 sayHello('Ferdinand');
+sayHello('Maggie');
 
